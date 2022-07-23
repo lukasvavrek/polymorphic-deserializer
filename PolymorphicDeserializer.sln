@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphicDeserializer", "PolymorphicDeserializer\PolymorphicDeserializer.csproj", "{0AE2D9DF-57CA-4D89-AA85-504E5CCF9A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphicDeserializerTests", "PolymorphicDeserializerTests\PolymorphicDeserializerTests.csproj", "{AF8F90BE-7547-404A-8915-1BF4456BA8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE2D9DF-57CA-4D89-AA85-504E5CCF9A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE2D9DF-57CA-4D89-AA85-504E5CCF9A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE2D9DF-57CA-4D89-AA85-504E5CCF9A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE2D9DF-57CA-4D89-AA85-504E5CCF9A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8F90BE-7547-404A-8915-1BF4456BA8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8F90BE-7547-404A-8915-1BF4456BA8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8F90BE-7547-404A-8915-1BF4456BA8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8F90BE-7547-404A-8915-1BF4456BA8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
